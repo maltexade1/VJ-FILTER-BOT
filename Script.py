@@ -225,9 +225,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """Filename: {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+ Size ⚙️: {file_size}""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
