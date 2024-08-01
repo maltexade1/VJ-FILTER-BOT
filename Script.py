@@ -214,7 +214,7 @@ Nᴀᴍᴇ - {}"""
     SELECT = """sᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴘʀᴇғᴇʀʀᴇᴅ ʟᴀɴɢᴜᴀɢᴇ, ǫᴜᴀʟɪᴛʏ, sᴇᴀsᴏɴ ᴀɴᴅ ᴇᴘɪsᴏᴅᴇ"""
 
     SINFO = """
-🫣 For Movie Join First Then Click On Try Again Button"""
+🫣 For Movie, Join First Then Click On Try Again Button"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -241,12 +241,7 @@ IMDb Data:
 ☀️ Languages : <code>{languages}</code>
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
-💢 Plot : {plot}
-
-
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-
-Requested by : {message.from_user.mention}</b>"""
+💢 Plot : {plot} </b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
