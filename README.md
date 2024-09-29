@@ -19,7 +19,7 @@
 - [x] Rename Feature & On / Off
 - [x] Premium And Refer On / Off 
 - [x] Stream Feature On / Off 
-- [x] Url Shortner On / Off Feature 
+- [x] Url Shortner On / Off Feature.
 - [x] Pm Search On / Off
 - [x] Request To Join Force Subscribe With Auto File Send 
 - [x] Custom Stream
